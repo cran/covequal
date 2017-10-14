@@ -1,0 +1,9 @@
+64e88703ee227b0d35155afb08c7be2b *DESCRIPTION
+d39fe7058e2ebfd708806c059fcc6023 *LICENSE
+306681d0da7d54fb4dfa2757374a97a0 *NAMESPACE
+77dac3a9ceb45f1a9898c4871e650cbc *R/main.R
+1edeb29debfd5e26aaa75710c15046bd *R/utilities.R
+f8145b26e06643deba39a627898ba274 *README.md
+e0fb15cc10a84dafd5591ddbcefe5be4 *man/test_covequal.Rd
+7a2dc529c154c3b0ddc4714d966b0f4f *tests/testthat.R
+74accab19096740c9acb3b1854a824f3 *tests/testthat/test-covequal.R
